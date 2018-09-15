@@ -16,4 +16,11 @@ TensorFlow
       2. 터미널에  sudo python get-pip.py 명령어 입력
       3. 버전 확인 pip -V 명령어 
 
+# Anaconda 설치
+    1. https://www.continuum.io/downloads 링크에 가서 
+
+# TensorFlow 설치
+    1. pip 업그레이드 python -m pip install --upgrade pip 명령어 실행
+    2. 
+
 #
