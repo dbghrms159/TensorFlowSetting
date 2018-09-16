@@ -26,5 +26,10 @@ TensorFlow
     3. TensorFlow 설치하기 activate tensorflow 명령어 실행하면 (tensorflow) > 이렇게 되는데 pip install tensorflow 명령어 실행
 
 # TensorFlow Test
+<br>
+![image](https://user-images.githubusercontent.com/38156821/45592113-e5bb5c00-b99f-11e8-91d8-f7be39aa905f.png)
+<br>
 
-    
+# Error note
+    Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+    원인 최신 CPU에서 신규 명령어를 지원하니 바젤이라는 빌드 시스템을 이용하여 빌드하여 사용하기 바란다는 의미 window 에서 빌드하기 힘듬 리눅스 추천 
