@@ -17,10 +17,14 @@ TensorFlow
       3. 버전 확인 pip -V 명령어 
 
 # Anaconda 설치
-    1. https://www.continuum.io/downloads 링크에 가서 
+    1. https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe 링크를 누르면 다운로드가 된다.
+    2. 설치 하다 Just Me 를 All Users 로 바꿔주고 next 누른다 
 
 # TensorFlow 설치
     1. pip 업그레이드 python -m pip install --upgrade pip 명령어 실행
-    2. 
+    2. conda 환경 만들기 conda create -n tensorflow python=3.5 명령어 실행 (엑세스 거부시 cmd 관리자 권한으로 실행)
+    3. TensorFlow 설치하기 activate tensorflow 명령어 실행하면 (tensorflow) > 이렇게 되는데 pip install tensorflow 명령어 실행
 
-#
+# TensorFlow Test
+
+    
