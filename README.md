@@ -26,9 +26,9 @@ TensorFlow
     3. TensorFlow 설치하기 activate tensorflow 명령어 실행하면 (tensorflow) > 이렇게 되는데 pip install tensorflow 명령어 실행
 
 # TensorFlow Test
-<br>
+
 ![image](https://user-images.githubusercontent.com/38156821/45592113-e5bb5c00-b99f-11e8-91d8-f7be39aa905f.png)
-<br>
+
 
 # Error note
     Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
